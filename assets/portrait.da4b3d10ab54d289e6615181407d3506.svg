@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1116px" height="2472px" viewBox="0 0 1116 2472" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>portrait</title>
+    <g id="portrait" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="cell" x="0" y="0" width="1116" height="2472"></rect>
+        <path d="M990,48 L126,48 C66.9497145,48 18.9681943,95.3910174 18.0144689,154.214023 L18,156 L18,2316 C18,2375.05029 65.3910174,2423.03181 124.214023,2424 L126,2424 L990,2424 C1049.05029,2424 1097.03181,2376.60898 1097.98553,2317.78598 L1098,2316 L1098,156 C1098,96.353247 1049.64675,48 990,48 Z M1110,744 L1113,744 C1114.65685,744 1116,745.343146 1116,747 L1116,891 C1116,892.656854 1114.65685,894 1113,894 L1110,894 L1110,2364 C1110,2423.64675 1061.64675,2472 1002,2472 L114,2472 C54.353247,2472 6,2423.64675 6,2364 L6,108 C6,48.353247 54.353247,0 114,0 L1002,0 C1061.64675,0 1110,48.353247 1110,108 L1110,360 L1113,360 C1114.65685,360 1116,361.343146 1116,363 L1116,657 C1116,658.656854 1114.65685,660 1113,660 L1110,660 L1110,744 Z" id="形状" fill="#000000" fill-rule="nonzero"></path>
+        <g id="camera" transform="translate(96.000000, 72.000000)">
+            <rect id="矩形" fill="#000000" x="0" y="0" width="300" height="102" rx="51"></rect>
+            <g transform="translate(30.000000, 27.000000)" id="椭圆形">
+                <circle fill="#404142" cx="24" cy="24" r="24"></circle>
+                <circle fill="#465885" opacity="0.699999988" cx="24" cy="24" r="12"></circle>
+                <circle fill="#5E729E" cx="20" cy="20" r="4"></circle>
+            </g>
+            <g transform="translate(222.000000, 27.000000)" id="椭圆形">
+                <circle fill="#404142" cx="24" cy="24" r="24"></circle>
+                <circle fill="#465885" opacity="0.699999988" cx="24" cy="24" r="12"></circle>
+                <circle fill="#5E729E" cx="20" cy="20" r="4"></circle>
+            </g>
+        </g>
+        <rect id="屏幕" x="18" y="48" width="1080" height="2376" rx="108"></rect>
+    </g>
+</svg>
